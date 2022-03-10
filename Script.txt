@@ -1,0 +1,19 @@
+DEF (char, sa, #FF0000)
+DEF (char, da, #0033ff)
+DEF (img, sa_1, https://realworld.blob.core.windows.net/misc-files/3YFQhIQGtkbfGiSIxjxFMA-character_boy_normal.png)
+DEF (img, sa_2, https://realworld.blob.core.windows.net/misc-files/Vs4eXuxISGneXsH4rjV_rw-%E1%84%8B%E1%85%AE%E1%84%91%E1%85%A1%E1%84%85%E1%85%AE%E1%84%91%E1%85%A1.jpg)
+PRINT (sa,"Hello WORLD!")
+SHOW (sa,sa_1,25,50,1)
+
+PRINT (sa,"Hello... Again!")
+SHOW (sa2,sa_2, 75,50,1)
+PRINT (da, "Oh hi! Hello")
+
+PRINT (sa,"저 한국말 할수있어요.")
+
+HIDE (sa)
+PRINT (da,"저는 아직 잘 못해요. 아직 한국에 도착한지 별로 안되서 잘 될지 안될지는 모르겠지만, 이런장문 계속 읽을사람이 있기나 할까요 하하하하하 정말 긴 장문이야 이이이이이하하하하 장문의 테스트 만세 테스트 만만세")
+
+PRINT (sa, "더 연습하세요")
+
+RW_CLOSE ()
