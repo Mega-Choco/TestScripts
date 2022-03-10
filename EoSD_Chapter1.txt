@@ -9,7 +9,7 @@ IMG (Rumia2, https://realworld.blob.core.windows.net/misc-files/YJ3qsxIkOBZEZKye
 IMG (Rumia3, https://realworld.blob.core.windows.net/misc-files/ZuOK-qPFMTxCFl2EdVLVvw-Rumia3.png)
 SHOW (Port_Reimu,Reimu1,10,60,1)
 SCALE (Port_Reimu,2,2)
-FADE (Port_Reimu,0,1,0.4)
+FADE (Port_Reimu,0,1,0.1)
 PRINT (레이무,"오랜만의 일이군. 기분 좋은데~")
 
 PRINT (레이무,"낮에 출발하면 요괴들이 별로 없어서 밤에 나와 본 거지만....")
