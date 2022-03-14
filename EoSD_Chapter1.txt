@@ -7,27 +7,6 @@ IMG (Reimu4, https://realworld.blob.core.windows.net/misc-files/mCmRUBZsp0Qbt798
 IMG (Rumia1, https://realworld.blob.core.windows.net/misc-files/aEncY8de0j146Ixfu0gqaw-Rumia1.png)
 IMG (Rumia2, https://realworld.blob.core.windows.net/misc-files/YJ3qsxIkOBZEZKye5rBnbg-Rumia2.png)
 IMG (Rumia3, https://realworld.blob.core.windows.net/misc-files/ZuOK-qPFMTxCFl2EdVLVvw-Rumia3.png)
-SHOW (Port_Reimu,Reimu1,10,60,1)
+SHOW (Port_Reimu,Reimu1,50,50,1)
 SCALE (Port_Reimu,1,1)
 FADE (Port_Reimu,0,1,1)
-PRINT (레이무,"오랜만의 일이군. 기분 좋은데~")
-
-PRINT (레이무,"낮에 출발하면 요괴들이 별로 없어서 밤에 나와 본 거지만....")
-
-SHOW (Port_Reimu,Reimu2)
-PRINT (레이무,"어디로 가야 할지 통 모르겠네. 어두워서")
-
-PRINT (레이무,"그래도.....")
-
-SHOW (Port_Reimu,Reimu4)
-PRINT (레이무,"밤의 신사 뒷편은 로맨틱하구나.")
-
-SHOW (Port_Rumia,Rumia1,70,60,1)
-SCALE (Port_Rumia,1,1)
-PRINT (루미아,"그러니까~ 귀신도 나오고 하는 게 정말 좋다구.")
-
-PRINT (레이무,"근데 넌 누구?")
-
-PRINT (루미아,"방금 전에 만났잖아.")
-
-RW_CLOSE ()
