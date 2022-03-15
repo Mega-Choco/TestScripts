@@ -7,6 +7,6 @@ IMG (Reimu4, https://realworld.blob.core.windows.net/misc-files/mCmRUBZsp0Qbt798
 IMG (Rumia1, https://realworld.blob.core.windows.net/misc-files/aEncY8de0j146Ixfu0gqaw-Rumia1.png)
 IMG (Rumia2, https://realworld.blob.core.windows.net/misc-files/YJ3qsxIkOBZEZKye5rBnbg-Rumia2.png)
 IMG (Rumia3, https://realworld.blob.core.windows.net/misc-files/ZuOK-qPFMTxCFl2EdVLVvw-Rumia3.png)
-SHOW (Port_Reimu,Reimu1,50,50,1)
+SHOW (Port_Reimu,Reimu1,360,640,1)
 SCALE (Port_Reimu,1,1)
 FADE (Port_Reimu,0,1,1)
