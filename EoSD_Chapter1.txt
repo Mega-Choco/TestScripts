@@ -1,32 +1,20 @@
 CHAR (레이무, #FF0000)
 CHAR (루미아, #FF0000)
-IMG (Reimu1, https://realworld.blob.core.windows.net/misc-files/pM2vQ8CoHAbBOBaSpDpt9A-Reimu1.png)
+CHAR (맨, #FF0000)
+IMG (Reimu1, https://realworld.blob.core.windows.net/misc-files/9pQId7tjVveyKLjkNbuM1g-fashion_oversize_tshirt_man.png)
 IMG (Reimu2, https://realworld.blob.core.windows.net/misc-files/p62a-TAuLI5wWRtlbJpx2Q-Reimu2.png)
 IMG (Reimu3, https://realworld.blob.core.windows.net/misc-files/y0UDwZlea5lVKR5LFlBhgQ-Reimu3.png)
 IMG (Reimu4, https://realworld.blob.core.windows.net/misc-files/mCmRUBZsp0Qbt798S2RqIg-Reimu4.png)
 IMG (Rumia1, https://realworld.blob.core.windows.net/misc-files/aEncY8de0j146Ixfu0gqaw-Rumia1.png)
 IMG (Rumia2, https://realworld.blob.core.windows.net/misc-files/YJ3qsxIkOBZEZKye5rBnbg-Rumia2.png)
 IMG (Rumia3, https://realworld.blob.core.windows.net/misc-files/ZuOK-qPFMTxCFl2EdVLVvw-Rumia3.png)
-SHOW (Port_Reimu,Reimu1,10,60,1)
-SCALE (Port_Reimu,2,2)
-PRINT (레이무,"오랜만의 일이군. 기분 좋은데~")
+SHOW (Port_Reimu,Reimu1,360,640,1)
+SCALE (Port_Reimu,1,1)
+FADE (Port_Reimu,0,1,1)
+PRINT (맨, "안녕하세요. 이 캔버스 한 가운데 있습니다.")
 
-PRINT (레이무,"낮에 출발하면 요괴들이 별로 없어서 밤에 나와 본 거지만....")
+PRINT (맨, "아 전 이제 가볼시간이 됬네요. 빠이요")
 
-SHOW (Port_Reimu,Reimu2)
-PRINT (레이무,"어디로 가야 할지 통 모르겠네. 어두워서")
+PRINT (맨, "뿅")
 
-PRINT (레이무,"그래도.....")
-
-SHOW (Port_Reimu,Reimu4)
-PRINT (레이무,"밤의 신사 뒷편은 로맨틱하구나.")
-
-SHOW (Port_Rumia,Rumia1,90,60,1)
-SCALE (Port_Rumia,2,2)
-PRINT (루미아,"그러니까~ 귀신도 나오고 하는 게 정말 좋다구.")
-
-PRINT (레이무,"근데 넌 누구?")
-
-PRINT (루미아,"방금 전에 만났잖아.")
-
-RW_CLOSE ()
+FADE (Port_Reimu,1,0,0.5)
