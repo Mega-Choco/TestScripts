@@ -1,14 +1,10 @@
 CHAR (A, #FF0000)
-CHAR (ann, #FF0000)
-IMG (A_stand, https://realworld.blob.core.windows.net/misc-files/9pQId7tjVveyKLjkNbuM1g-fashion_oversize_tshirt_man.png)
-SHOW (Port_Man,A_stand,360,800,1)
+CHAR (B, #FF0000)
+IMG (hito, https://realworld.blob.core.windows.net/misc-files/9pQId7tjVveyKLjkNbuM1g-fashion_oversize_tshirt_man.png)
+IMG (usagi, https://realworld.blob.core.windows.net/misc-files/R57f6qfQ9Ckb8YrDsVdxDw-usagi.png)
+SHOW (man,hito,360,800,1)
 SCALE (Port_Man,2,2)
-PRINT (A, "오늘 미세먼지가 심하네.")
+PRINT (A,"남자 이미지 출력")
 
-PRINT (A, "마스크하고 나올걸 그랬나")
-
-PRINT (A, "버스정류장까지 14분 걸리니까....")
-
-PRINT (A, "....")
-
-PRINT (A, "뛰어야겠네")
+SHOW (usa,usagi,50%,10%,1)
+PRINT (B,"토끼 이미지 출력 퍼센티지")
