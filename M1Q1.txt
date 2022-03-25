@@ -10,4 +10,4 @@ SHOW (usa,usagi,50%,10%,1)
 PRINT (B,"토끼 이미지 출력 퍼센티지")
 
 MOVE (usa,300,300,3)
-PRINT (B, "토끼 이미지 이동
+PRINT (B, "토끼 이미지 이동")
