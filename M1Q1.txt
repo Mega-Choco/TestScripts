@@ -9,7 +9,7 @@ SCALE (man,2,2)
 MOVE (man,20%,60%,3)
 PRINT (A,"드디어 달에 도착했다!")
 
-SHOW (usa,usagi,95%,55%,1)
+SHOW (usa,usagi,95%,60%,1)
 PRINT (A,"????")
 
 MOVE (usa,82%,60%,3)
