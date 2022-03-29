@@ -4,12 +4,15 @@ IMG (hito, https://realworld.blob.core.windows.net/misc-files/9pQId7tjVveyKLjkNb
 IMG (usagi, https://realworld.blob.core.windows.net/misc-files/R57f6qfQ9Ckb8YrDsVdxDw-usagi.png)
 IMG (bg_moon, https://realworld.blob.core.windows.net/misc-files/CbN54ZLGFcR1-s5yd231Rw-deaf12eb-b442-4cd0-b7f2-6f7e73c1fda3%20(1).png)
 SET_BG (bg_moon)
-SHOW (man,hito,360,800,1)
+SHOW (man,hito,0,60%,1)
 SCALE (Port_Man,2,2)
-PRINT (A,"남자 이미지 출력")
+MOVE (man,20%,60%,3)
+PRINT (A,"드디어 달에 도착했다!")
 
-SHOW (usa,usagi,50%,10%,1)
-PRINT (B,"토끼 이미지 출력 퍼센티지")
+SHOW (usa,usagi,95%,55%,1)
+PRINT (A,"????")
 
-MOVE (usa,300,300,3)
-PRINT (B, "토끼 이미지 이동")
+MOVE (usa,82%,60%,3)
+PRINT (A,"우와 토끼다")
+
+PRINT (A,"달에있으니까 달토끼라고 해둬야겠는걸")
