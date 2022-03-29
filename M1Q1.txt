@@ -5,7 +5,7 @@ IMG (usagi, https://realworld.blob.core.windows.net/misc-files/R57f6qfQ9Ckb8YrDs
 IMG (bg_moon, https://realworld.blob.core.windows.net/misc-files/CbN54ZLGFcR1-s5yd231Rw-deaf12eb-b442-4cd0-b7f2-6f7e73c1fda3%20(1).png)
 SET_BG (bg_moon)
 SHOW (man,hito,0,60%,1)
-SCALE (Port_Man,2,2)
+SCALE (man,2,2)
 MOVE (man,20%,60%,3)
 PRINT (A,"드디어 달에 도착했다!")
 
