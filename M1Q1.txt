@@ -7,15 +7,15 @@ SET_BG (bg_moon)
 SHOW (man,hito,0,60%,1)
 SCALE (man,2,2)
 MOVE (man,20%,60%,3)
-PRINT (A,"드디어 달에 도착했다!")
+PRINT (A,"이미지 1 표시")
 
 SHOW (usa,usagi,95%,60%,1)
 MOVE (usa,82%,60%,2)
 
 MOVE (usa, 60%,60%,4)
 
-PRINT (A,"도착했네")
+PRINT (B,"2번 이동함")
 
-PRINT (A,"달에있으니까 달토끼라고 해둬야겠는걸")
+PRINT (A,"축하해")
 
 RW_CLOSE ()
