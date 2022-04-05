@@ -1,5 +1,5 @@
 CHAR (A, #FF0000)
-CHAR (B, #FFFFFF)
+CHAR (B, #FF0000)
 IMG (hito, https://realworld.blob.core.windows.net/misc-files/9pQId7tjVveyKLjkNbuM1g-fashion_oversize_tshirt_man.png)
 IMG (usagi, https://realworld.blob.core.windows.net/misc-files/R57f6qfQ9Ckb8YrDsVdxDw-usagi.png)
 IMG (bg_moon, https://realworld.blob.core.windows.net/misc-files/CbN54ZLGFcR1-s5yd231Rw-deaf12eb-b442-4cd0-b7f2-6f7e73c1fda3%20(1).png)
@@ -10,12 +10,11 @@ MOVE (man,20%,60%,3)
 PRINT (A,"드디어 달에 도착했다!")
 
 SHOW (usa,usagi,95%,60%,1)
-PRINT (A,"????")
+MOVE (usa,82%,60%,2)
 
-MOVE (usa,82%,60%,3)
-PRINT (A,"우와 토끼다")
+MOVE (usa, 60%,60%,4)
 
-PRINT (B,"네 제가 토끼입니다. 그 유명한 그 뭔가 하는거")
+PRINT (A,"도착했네")
 
 PRINT (A,"달에있으니까 달토끼라고 해둬야겠는걸")
 
