@@ -1,27 +1,9 @@
 CHAR (A, #FF0000)
-CHAR (B, #FF0000)
+CHAR (B, #50bcdf)
 IMG (hito, https://realworld.blob.core.windows.net/misc-files/9pQId7tjVveyKLjkNbuM1g-fashion_oversize_tshirt_man.png)
 IMG (usagi, https://realworld.blob.core.windows.net/misc-files/R57f6qfQ9Ckb8YrDsVdxDw-usagi.png)
 IMG (bg_moon, https://realworld.blob.core.windows.net/misc-files/CbN54ZLGFcR1-s5yd231Rw-deaf12eb-b442-4cd0-b7f2-6f7e73c1fda3%20(1).png)
 SET_BG (bg_moon)
-SHOW (man,hito,10%,60%,1)
+SHOW (man,hito,0,60%,1)
 SCALE (man,2,2)
-SHOW (usa,usagi,82%,60%,1)
-
-PRINT (B,"저기요.")
-
-PRINT (A,"????")
-
-PRINT (A,"왜요?")
-
-PRINT (B,"여기다 주차하심 안되여")
-
-PRINT (B,"그리고 여기서 본적 없는거 같은데.")
-PRINT (B,"오셨으면 관청에 신고부터 하셔야죠.")
-
-PRINT (A,"아.... 네... 지금가볼게요.")
-
-PRINT (A,"[타박 타박... 타박상]")
-MOVE (man,-10%,60%,2)
-
-RW_CLOSE ()
+BOUNCE (man,10,1,1)
