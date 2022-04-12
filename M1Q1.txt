@@ -1,5 +1,5 @@
 CHAR (A, #FF0000)
-CHAR (B, #FF0000)
+CHAR (B, #50bcdf)
 IMG (hito, https://realworld.blob.core.windows.net/misc-files/9pQId7tjVveyKLjkNbuM1g-fashion_oversize_tshirt_man.png)
 IMG (usagi, https://realworld.blob.core.windows.net/misc-files/R57f6qfQ9Ckb8YrDsVdxDw-usagi.png)
 IMG (bg_moon, https://realworld.blob.core.windows.net/misc-files/CbN54ZLGFcR1-s5yd231Rw-deaf12eb-b442-4cd0-b7f2-6f7e73c1fda3%20(1).png)
