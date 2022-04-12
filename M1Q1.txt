@@ -9,6 +9,8 @@ SCALE (man,2,2)
 MOVE (man,20%,60%,3)
 PRINT (A,"이미지 1 표시")
 
+BOUNCE (man,10,1,1)
+
 SHOW (usa,usagi,95%,60%,1)
 MOVE (usa,82%,60%,2)
 
