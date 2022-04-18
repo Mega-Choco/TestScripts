@@ -9,7 +9,6 @@ SCALE (man,2,2)
 MOVE (man,20%,60%,3)
 PRINT (A,"이미지 1 표시")
 
-
 SHOW (usa,usagi,95%,60%,1)
 MOVE (usa,82%,60%,2)
 
@@ -19,9 +18,7 @@ PRINT (B,"2번 이동함")
 
 PRINT (A,"축하해")
 
-BOUNCE (usa,12,1,1)
+BOUNCE (usa,12,15,10)
 PRINT (B,"고마워")
-
-PRINT (B,"동해물과 백두산이 마르고 닳도록 하느님이 Bow하사 우리나라만세 무궁화 삼천리 화려강산 대한사람 대한으로 길이 보전하세")
 
 RW_CLOSE ()
