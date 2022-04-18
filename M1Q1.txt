@@ -18,7 +18,7 @@ PRINT (B,"2번 이동함")
 
 PRINT (A,"축하해")
 
-SHAKE (usa,-12,15,5)
+SHAKE (usa,-5,30,5)
 PRINT (B,"고마워")
 
 RW_CLOSE ()
