@@ -54,4 +54,4 @@ SHOW (port_ko, kohaku1)
 PRINT (코하쿠, "보통 다들 날 '유니티짱' 이라고 부르지")
 
 SHOW (port_to, toko5)
-PRINT (토코, "오케이 잘 기억했어")
+PRINT (토코, " 잘 기억했어")
