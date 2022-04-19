@@ -11,9 +11,9 @@ IMG (kohaku3, https://realworld.blob.core.windows.net/misc-files/Rh9HG9WREYxV652
 IMG (bg_dote, https://realworld.blob.core.windows.net/misc-files/YH5tAqaONzUuHu_C7tlrwg-bg_dote.jpg)
 SET_BG (bg_dote)
 
-SHOW (토코, toko5, -50, 50%,1)
+SHOW (토코, toko5, 0, 50%,1)
 SCALE (토코, -1,1)
-MOVE (토코, 20%, 60%, 5)
+MOVE (토코, 25%, 50%, 5)
 PRINT (토코, "Hello!")
 
 PRINT (토코, "My name is Toko.")
