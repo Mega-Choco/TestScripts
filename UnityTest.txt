@@ -20,9 +20,10 @@ PRINT (토코, "My name is Toko.")
 
 PRINT (토코, "당신과는 다른 2D 일러스트 입니다.")
 
-SHOW (토코, toko4)
+SHOW (토코, toko2)
 PRINT (토코, "다시말해 저는 가상의 인물이라는 말이죠!")
 
+SHOW (토코, toko4)
 BOUNCE (토코, -10, 10, 1)
 PRINT (토코, "앗!")
 
