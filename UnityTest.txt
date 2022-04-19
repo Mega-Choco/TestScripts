@@ -44,7 +44,7 @@ BOUNCE (port_ko, -12, 10,3)
 SHOW (port_to, toko4)
 PRINT (???, "다시 말해줄테니 똑똑히 기억해!")
 
-SHAKE (port_to, 10,30,4)
+SHAKE (port_to, 10,30,10)
 PRINT (토코, "아... 알았어")
 
 SHOW (port_ko,kohaku2)
